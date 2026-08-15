@@ -9,10 +9,11 @@ Lead Developer at OECD, building the document authoring and publishing systems t
 **On the side:** I go deep on offensive/defensive security — DevSecOps, SOC, red teaming, and pentesting certifications, and a few hundred TryHackMe rooms in. It's the same instinct that shows up in the tools below: understand the whole system, then build or break it properly.
 
 #### Some things I've built
-- **[drawio-charts](https://github.com/raulkivi/drawio-charts)** — a Claude Code Agent Skill for creating and editing draw.io diagrams
+- **[music-assistant](https://github.com/raulkivi/music-assistant)** — six MCP servers that help choir singers digitize, render, synthesize, compare, and sing along with sheet music
 - **[osh](https://github.com/raulkivi/osh)** — translates plain English into ranked, explained shell commands (local/cloud Ollama)
 - **[gh-cp-chat-analyser](https://github.com/raulkivi/gh-cp-chat-analyser)** — breaks down GitHub Copilot Chat's token usage, caching, and cost
 - **[md2p](https://github.com/raulkivi/md2p)** — zero-dependency Markdown-to-terminal renderer
+- **[drawio-charts](https://github.com/raulkivi/drawio-charts)** — a Claude Code Agent Skill for creating and editing draw.io diagrams
 - **[onnx-text-summarizer-dotnet](https://github.com/raulkivi/onnx-text-summarizer-dotnet)** — ONNX Runtime + Hugging Face T5 summarization in C#
 
 Open to DevSecOps and security-minded engineering/architect roles. Reach me on [LinkedIn](https://www.linkedin.com/in/raulkivi/).
