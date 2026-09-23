@@ -1,19 +1,26 @@
 ### Hi, I'm Raul
 
-Lead Developer at OECD, building the document authoring and publishing systems that produce OECD's official reports. 25+ years spanning enterprise infrastructure architecture, independent IT consulting, and cybersecurity, now applied to modern AI-assisted software development.
+**Security & DevSecOps Architect | IAM · PKI · Digital Identity | Azure · .NET · AI | Lead Developer @ OECD**
 
-**At OECD (2019–present):** I develop and maintain O.N.E Author, a .NET/VSTO Word add-in used by 2,000+ authors to produce 10,000+ official publications a year, plus the REST services and PDF pipeline behind it. Currently modernizing legacy tooling to .NET Core and React, with GitHub Copilot and Azure AI in the everyday workflow.
+I design and build secure systems end to end, from enterprise identity and PKI architecture down to the pipelines and code that run on them.
 
-**Before that:** ran an independent consulting practice across government, education, and private-sector clients (including the OECD engagement that led to this role); and before that, Infrastructure Architect at Swedbank, responsible for identity and security architecture (PKI, IAM, SIEM, PCI-DSS) for 22,000+ users.
+**Now: Lead Developer, OECD (2019–present).** I own the technical development of the OECD's document authoring and publishing platform, used by 2,000+ staff to produce 10,000+ official publications a year. Stack: .NET 8 (migrating to .NET 10), C#, React, REST APIs, Azure DevOps. I run the delivery lifecycle: CI/CD, automated testing, and security scanning with GitHub Advanced Security for Azure DevOps. I use AI-assisted development (GitHub Copilot, Claude Code) every day and run internal sessions on effective AI agentic coding.
 
-**On the side:** I go deep on offensive/defensive security — DevSecOps, SOC, red teaming, and pentesting certifications, and a few hundred TryHackMe rooms in. It's the same instinct that shows up in the tools below: understand the whole system, then build or break it properly.
+**Before: identity & security architecture**
+- **Swedbank**, Infrastructure Architect for Identity & Security Services: architecture for the SailPoint IdentityIQ rollout, the Vulnerability Management Policy, PKI, HSM, PAM and SIEM.
+- **Swedbank**, IT infrastructure project manager: led teams of around 10 on Active Directory forest consolidation (22,000 users) and the initial phases of PCI-DSS compliance.
+- **Estonian e-government** (as founder of Sakitun Pty Ltd): EstEID smart-card authentication, XAdES digital signing and X-Road integrations.
 
-#### Some things I've built
-- **[music-assistant](https://github.com/raulkivi/music-assistant)** — six MCP servers that help choir singers digitize, render, synthesize, compare, and sing along with sheet music
-- **[osh](https://github.com/raulkivi/osh)** — translates plain English into ranked, explained shell commands (local/cloud Ollama)
-- **[gh-cp-chat-analyser](https://github.com/raulkivi/gh-cp-chat-analyser)** — breaks down GitHub Copilot Chat's token usage, caching, and cost
-- **[md2p](https://github.com/raulkivi/md2p)** — zero-dependency Markdown-to-terminal renderer
-- **[drawio-charts](https://github.com/raulkivi/drawio-charts)** — a Claude Code Agent Skill for creating and editing draw.io diagrams
-- **[onnx-text-summarizer-dotnet](https://github.com/raulkivi/onnx-text-summarizer-dotnet)** — ONNX Runtime + Hugging Face T5 summarization in C#
+**Hands-on security practice:** TryHackMe global rank 380, 710+ rooms; Offensive Pentesting, SOC Level 2 and DevSecOps paths. TOGAF 9 and ArchiMate 2 certified.
 
-Open to DevSecOps and security-minded engineering/architect roles. Reach me on [LinkedIn](https://www.linkedin.com/in/raulkivi/).
+#### Public projects
+Professional work (OECD, Swedbank) is private; these are personal projects, mostly exploring AI-assisted and agentic development.
+
+- **[gh-cp-chat-analyser](https://github.com/raulkivi/gh-cp-chat-analyser)**: explains GitHub Copilot Chat token usage, prompt caching and cost
+- **[music-assistant](https://github.com/raulkivi/music-assistant)**: six MCP servers that help choir singers digitize, render and sing along with sheet music
+- **[drawio-charts](https://github.com/raulkivi/drawio-charts)**: a Claude Code Agent Skill for creating and editing draw.io diagrams
+- **[osh](https://github.com/raulkivi/osh)**: translates plain English into ranked, explained shell commands with local LLMs (Ollama, llama.cpp)
+- **[onnx-text-summarizer-dotnet](https://github.com/raulkivi/onnx-text-summarizer-dotnet)**: ONNX Runtime and Hugging Face T5 summarization in C#
+- **[md2p](https://github.com/raulkivi/md2p)**: zero-dependency Markdown-to-terminal renderer that also detects hidden Unicode watermarks
+
+Looking for security architect, IAM / digital-identity architect and DevSecOps lead roles, including securing AI and agent-based systems. Reach me on [LinkedIn](https://www.linkedin.com/in/raulkivi/).
