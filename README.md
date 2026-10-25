@@ -10,7 +10,7 @@ I design and build secure systems end to end, from enterprise identity and PKI a
 - **Infrastructure project management**: Active Directory forest consolidation and PCI-DSS compliance.
 - **Digital identity**: national eID smart-card authentication, XAdES digital signing and secure data-exchange integrations.
 
-**Hands-on security practice:** TryHackMe global rank 380, 710+ rooms; Offensive Pentesting, SOC Level 2 and DevSecOps paths. TOGAF 9 and ArchiMate 2 certified.
+**Hands-on security practice:** TryHackMe top 1%, 710+ rooms; Offensive Pentesting, Red Teaming, Jr Penetration Tester, SOC Level 2 and DevSecOps paths. TOGAF 9 and ArchiMate 2 certified.
 
 #### Public projects
 Personal projects, mostly exploring secure, AI-assisted and agentic development.
